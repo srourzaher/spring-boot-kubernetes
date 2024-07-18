@@ -10,7 +10,7 @@ mvn clean package
 
 ## Docker image with layered architecture
 
-For docker image with layered architecture, refer [Jenkinsfile](./Jenkinsfile) and [Dockerfile](./deploy/Dockerfile)
+For docker image with layered architecture, refer [Jenkinsfile](./Jenkinsfile.old) and [Dockerfile](./deploy/Dockerfile)
 directory.
 
 * Open shell in project directory and run following command to build docker image.
